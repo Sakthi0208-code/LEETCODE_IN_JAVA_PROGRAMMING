@@ -16,7 +16,7 @@ Input: arr = [3,1,7,11]
 Output: false
 Explanation: There is no i and j that satisfy the conditions.*/
 
-//program
+//program:
 
 class Solution {
     public boolean checkIfExist(int[] arr) {
